@@ -15,13 +15,6 @@
     {
       "type": "productivebees:bee_exists",
       "bee": "productivebees:invar"
-    },
-    {
-      "type": "neoforge:not",
-      "value": {
-        "type": "neoforge:mod_loaded",
-        "modid": "productivemetalworks"
-      }
     }
   ]
 }
